@@ -8,5 +8,6 @@ namespace ThuNghiem1
 {
     class Nhut
     {
+        //Lan 1
     }
 }
